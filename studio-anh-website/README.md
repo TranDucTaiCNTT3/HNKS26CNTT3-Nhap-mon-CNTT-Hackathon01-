@@ -11,7 +11,7 @@
 Get-ChildItem -Recurse -Force
 ```
 ## Task list 
-- [ ] Hoàn thiện bảng giá gói 
+- [x] Hoàn thiện bảng giá gói 
 - [ ] Lọc giá tiền chụp lớn hơn hoặc bằng 2400000
 > Lưu ý : Không up file có đuôi .
 
